@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [SoloSync] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Carpe Diem]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Harinandana S] - [NSS College of Engineering Palakkad]
+- Member 2: [Diya Mirsha P] - [NSS College of Engineering Palakkad]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[SoloSync is a women-focused web application designed to make solo travel safe, fun, and empowering. It acts as a personalized digital companion that combines emotional support, safety tools, and community connections into one platform]
 
 ### The Problem statement
-[What problem are you solving?]
+[Women traveling alone often face safety concerns, isolation, and difficulty finding activities that match their mood. Current travel solutions are fragmented, leaving solo travelers without a central platform for support, engagement, and connection.]
 
 ### The Solution
-[How are you solving it?]
+[SoloSync provides a centralized platform for women solo travelers by combining mood-based activity suggestions, fun challenges, micro-connections with other travelers, safety tools like SOS/panic alerts, and a travel journal. This ensures travelers feel safe, engaged, and connected throughout their journey.]
 
 ---
 
@@ -31,10 +31,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [python, streamlit]
+- Frameworks used: [Streamlit (for web app interface)]
+- Libraries used: [random, pandas (optional, if used for data handling), streamlit components]
+- Tools used: [VS Code, Git, GitHub, web browser]
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +46,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Mood Explorer: Suggests activities based on your current mood to make solo travel more fun and personalized.]
+- Feature 2: [Challenges: Complete fun solo challenges, earn points, and unlock badges to stay motivated and engaged.]
+- Feature 3: [Safety Hub: Access emergency contacts, SOS, and panic alerts to ensure safety at all times.]
+- Feature 4: [Micro Connect: Post activity requests and safely connect with other solo travelers nearby.]
 
 ---
 
@@ -59,12 +59,26 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[Installation commands - # 1. Clone the repository (if using GitHub)
+git clone <your-repo-link>
+cd <your-repo-folder>
+
+# 2. (Optional) Create a virtual environment
+python -m venv venv
+# Activate it:
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+
+# 3. Install dependencies
+pip install streamlit
+]
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+[Run commands - streamlit run app.py]
 ```
 
 ### For Hardware:
@@ -82,6 +96,7 @@ List the key features of your project:
 ### For Software:
 
 #### Screenshots (Add at least 3)
+![Logo](images/sc1.png)
 
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
