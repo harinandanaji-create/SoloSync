@@ -97,15 +97,18 @@ pip install streamlit
 
 #### Screenshots (Add at least 3)
 ![Logo](images/sc1.png)
-
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](login page)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Logo](images/sc2.png)
+![Screenshot2](login page)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Logo](images/sc3.png)
+![Screenshot3](login page)
 *Add caption explaining what this shows*
+
+
 
 #### Diagrams
 
