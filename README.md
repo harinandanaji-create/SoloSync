@@ -13,7 +13,7 @@
 - Member 2: [Diya Mirsha P] - [NSS College of Engineering Palakkad]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[http://localhost:8501/]
 
 ### Project Description
 [SoloSync is a women-focused web application designed to make solo travel safe, fun, and empowering. It acts as a personalized digital companion that combines emotional support, safety tools, and community connections into one platform]
@@ -115,11 +115,13 @@ pip install streamlit
 **System Architecture:**
 
 ![Architecture Diagram](docs/architecture.png)
+![Logo](docs/architecture.png)
 *Explain your system architecture - components, data flow, tech stack interaction*
 
 **Application Workflow:**
 
 ![Workflow](docs/workflow.png)
+![Logo](docs/workflow.png)
 *Add caption explaining your workflow*
 
 ---
@@ -379,7 +381,8 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+
+[https://drive.google.com/file/d/1YKdxFgT3RONvjmkfw-yLlACXbCjRa9Vz/view?usp=drive_link]
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
@@ -392,24 +395,24 @@ python script.py -v --format json data.json
 
 If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+**Tool Used:** [e.g., Gemini, ChatGPT]
 
 **Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
+- Example: "Generating project templates and structure for the SoloSync web app"
+- Example: "Providing guidance for UI/UX design, flow, and layout improvements"
+- Example: "Debugging issues and creating dummy login functionality"
 
 **Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
-- "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
+- "Create a Streamlit app with login, mood tracker, challenges, safety, and travel journal features"
+- "Integrate mood-based activity suggestions and points/badges system for challenges"
+- "Design pastel-themed cards, tabs, and animations for a professional look"
 
-**Percentage of AI-generated code:** [Approximately X%]
+**Percentage of AI-generated code:** [Approximately 80-90%]
 
 **Human Contributions:**
-- Architecture design and planning
-- Custom business logic implementation
-- Integration and testing
+- Designed the overall app architecture and planned the workflow
+- Implemented custom business logic for challenges, micro-connect, and safety feature
+- Integrated different modules and performed testing to ensure smooth functionality
 - UI/UX design decisions
 
 *Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
@@ -418,9 +421,8 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- [Harinandana S]: [Specific contributions -Frontend development,Mood Explorer, Challenges, Micro Connect, Safety Hub, Travel Journal, and Destinations implementation]
+- [Diya Mirsha P]: [Specific contributions - Backend logic support, Streamlit interface design, data handling (if any), flow design, testing, and documentation]
 
 ---
 
